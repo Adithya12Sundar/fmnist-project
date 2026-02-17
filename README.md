@@ -1,0 +1,1 @@
+In the repository is a fully functioning neural network model that was developed afresh and the model showed an impressive accuracy of 0.91 on the test dataset, The model is saved as a pickle file and is served when appropriate  the api is invoked
